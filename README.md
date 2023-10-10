@@ -35,5 +35,5 @@ This project is not currently licensed. It is for educational purposes and demon
 ## Contact
 If you have any questions or feedback, you can reach out to me:
 - Kathleen
-- Email: k.fsilva@outlook.com
+- Linkedin: https://www.linkedin.com/in/kathleenforgiarini/
 - GitHub: https://github.com/kathleenforgiarini
